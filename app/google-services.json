@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761711707065",
+    "firebase_url": "https://movie-363f0.firebaseio.com",
+    "project_id": "movie-363f0",
+    "storage_bucket": "movie-363f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761711707065:android:a70f79d93f921957ce2c68",
+        "android_client_info": {
+          "package_name": "com.kmproject.mov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761711707065-qhf899tatank25aq5jh7a1rkmtqoblcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MhRgN0SoMsoXOCW0kZaucIVJxJGYqD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761711707065-qhf899tatank25aq5jh7a1rkmtqoblcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

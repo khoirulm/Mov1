@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Mov</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="now_playing_desc">Lebih mudah untuk mengetahui \n
+          film yanng sedang tampil </string>
+    <string name="pre_sale">PRE SALE</string>
+    <string name="pre_sale_desc">Tidak khawatir ketinggalan film \n terbaru </string>
+    <string name="chashles">Chashles</string>
+    <string name="chashles_desc"> Gunakan e-wallet untuk transaksi \n tiket nonton  </string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="email">Email Address</string>
+    <string name="upload_later">UPLOAD LATER</string>
+    <string name="welcome">WELCOME \n Khoirul Mutaqin</string>
+    <string name="save_and_continue">SAVE AND CONTINUE</string>
+    <string name="coming_soon">COMING SOON</string>
+    <string name="pilih_bangku">SELECT A CHAIR</string>
+    <string name="beli_tiket">BUY TICKET</string>
+    <string name="checkout">CHECKOUT</string>
+    <string name="when">When</string>
+    <string name="datetime"><![CDATA[Date & Time]]></string>
+    <string name="cinema">Cinema</string>
+    <string name="seats">Seats</string>
+    <string name="seatc1">Seat No.C1</string>
+    <string name="seatc2">Seat No.C2</string>
+    <string name="total">Total</string>
+    <string name="e_wallet">E-Wallet</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="pay_now">PAY NOW</string>
+    <string name="cancel">CANCEL</string>
+    <string name="happpy_watching">Happy Watching!</string>
+    <string name="succes">Tiket telah berhasil  di beli  dan \n selamat menikmati film</string>
+    <string name="home">HOME</string>
+    <string name="check_ticket">CHECK TICKET</string>
+    <string name="save_update">SAVE NEW UPDATE</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="remaining_balance">Remaining Balance</string>
+    <string name="history">History</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
