@@ -13,6 +13,12 @@ import com.kmproject.mov.home.model.Film
 import com.kmproject.mov.home.model.Plays
 import kotlinx.android.synthetic.main.activity_detail.*
 
+/* Activiti ini berfungsi untuk menampilkan
+dekripsi film yang sudah di pilih oleh user yang
+isinya judul film, genre, rating, dekripsion, dan siapa
+saja aktor dan aktris di dalm film tersebut.
+*/
+
 class DetailActivity : AppCompatActivity() {
 
     lateinit var mDatabase: DatabaseReference
