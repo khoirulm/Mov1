@@ -1,5 +1,5 @@
 # Mov1P
-Belajar Project kelas build with Angga Riski dan Robi Dian Putra aplikasi booking tiket nonton bioskop
+Aplikasi booking tiket nonton bioskop
 
 ## Fitur
 1.Splash Screen
